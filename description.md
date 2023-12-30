@@ -1,5 +1,4 @@
 # Stroke Prediction
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F02%2Fheart-disease-prediction-using-machine-learning%2F&psig=AOvVaw3vph7b-djQ_lBvin8T7Q9t&ust=1704030959366000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiJxJOot4MDFQAAAAAdAAAAABAD)
 This data science project aims to predict the likelihood of a patient experiencing a stroke based on various input parameters such as gender, age, presence of diseases, and smoking status. The dataset provides relevant information about each patient, enabling the development of a predictive model.
 ## Dataset Information
 The dataset used in this project contains information necessary to predict the occurrence of a stroke. Each row in the dataset represents a patient, and the dataset includes the following attributes:
